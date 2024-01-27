@@ -1,5 +1,8 @@
 # Archive Reader
 
+Archive Reader is an unofficial app to browse the archiveofourown.org website more comfortably on mobile.
+It is not affiliated in any way with Archive of Our Own.
+
 ## Latest version
 You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader).
 
