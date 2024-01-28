@@ -7,7 +7,7 @@ It is not affiliated in any way with Archive of Our Own.
 You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader). For iOS, it's on the [App Store](https://apps.apple.com/us/app/archive-reader-ao3/id6454961665).
 
 ## Android : How to install ?
-It is advisable to regularly make backups of the app's data from the Settings before installing an update.
+It is advisable to make a backup of the app's data from the Settings before installing an update.
 
 1) Download the .apk file from the link above.
 2) From your file explorer, open the downloaded .apk file.
