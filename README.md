@@ -17,7 +17,7 @@ It is advisable to make a backup of the app's data from the Settings before inst
 ### I have an error : "The app could not be installed"
 - Verify Play Protect is off in the Play Store app.
 - In your settings, go to Apps and type in "Google Play services". Click the "Google Play services" app, go to Storage and clear the app's cache and data.
-- If you got the app from the Play Store, you can also uninstall it and reinstall this one. Make sure to make a backup to restore your data afterwards.
+- If you got the app from the Play Store, you can also uninstall it and reinstall this one. Make sure to make a backup from the Settings to restore your data afterwards.
 
 ### Contact
 [archivereaderapp@gmail.com](mailto:archivereaderapp@gmail.com)
