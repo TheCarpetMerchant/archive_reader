@@ -8,6 +8,7 @@ You can find the latest version for Android [here](https://github.com/TheCarpetM
 
 ## Android : How to install ?
 It is advisable to make a backup of the app's data from the Settings before installing an update.
+If you got the app from the Play Store, you will need to uninstall it before re-installing it the first time.
 
 1) Download the .apk file from the link above.
 2) From your file explorer, open the downloaded .apk file.
