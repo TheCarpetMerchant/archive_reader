@@ -4,7 +4,7 @@ Archive Reader is an unofficial app to browse the archiveofourown.org website mo
 It is not affiliated in any way with Archive of Our Own.
 
 ## Latest version
-You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.0). For iOS, it's on the [App Store](https://apps.apple.com/us/app/archive-reader-ao3/id6454961665).
+You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.1). For iOS, it's on the [App Store](https://apps.apple.com/us/app/archive-reader-ao3/id6454961665).
 
 ## Android : How to install ?
 It is advisable to make a backup of the app's data from the Settings before installing an update.
