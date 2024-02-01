@@ -9,7 +9,7 @@ You can find the latest version for Android [here](https://github.com/TheCarpetM
 ## Android : How to install ?
 It is advisable to make a backup of the app's data from the Settings before installing an update.
 
-If you got the app from the Play Store, you will need to uninstall it before re-installing it the first time. **If you got Premium through the Play Store, the subscription will not be kept if you uninstall the app. I suggest waiting until 20/01/24.**
+If you got the app from the Play Store, make a backup since you will need to uninstall it before re-installing it the first time. **If you got Premium through the Play Store, the subscription will not be kept if you uninstall the app. I suggest waiting until 20/01/24.**
 
 1) Click the link above and go to Assets > archive_reader.apk to download the update.
 2) From your file explorer, open the downloaded .apk file.
