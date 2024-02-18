@@ -22,3 +22,20 @@ If you got the app from the Play Store, you will need to uninstall it before re-
 
 ### Contact
 [archivereaderapp@gmail.com](mailto:archivereaderapp@gmail.com)
+
+### Changelog
+
+## 1.6.3
+- Fix Updates
+- Sort alphabetically option in tags list
+
+## 1.6.1
+- Allow different subscription durations so you can pay less for longer durations
+- Fix Explicit works >300k words not opening
+- Fix premium signing in which closed too soon
+
+## 1.6.0
+- Fix the Updates
+- Allow manually triggering the updates
+- By popular demand, this switches to having a few ads instead of a time limit
+- Other bugfixes.
