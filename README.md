@@ -4,7 +4,7 @@ Archive Reader is an unofficial app to browse the archiveofourown.org website mo
 It is not affiliated in any way with Archive of Our Own.
 
 ## Latest version
-You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.5). For iOS, it's on the [App Store](https://apps.apple.com/us/app/archive-reader-ao3/id6454961665).
+You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.8). For iOS, it's on the [App Store](https://apps.apple.com/us/app/archive-reader-ao3/id6454961665).
 
 ## Android : How to install ?
 Please make a backup of the app's data from the Settings before installing an update.
@@ -24,6 +24,11 @@ If you got the app from the Play Store, you will need to uninstall it before re-
 [archivereaderapp@gmail.com](mailto:archivereaderapp@gmail.com)
 
 ## Changelog
+
+### 1.6.8
+- Fix empty chapter titles
+- Kudos-to-hits ratio filter
+- Fix some freezes when losing connection
 
 ### 1.6.6
 - Fix wrongful requests leading to error 200
