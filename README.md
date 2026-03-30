@@ -4,13 +4,13 @@ Archive Reader is an unofficial app to browse the archiveofourown.org website mo
 It is not affiliated in any way with Archive of Our Own.
 
 ## Latest version
-You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.10).
+You can find the latest version for Android [here](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.11).
 
 ## Android : How to install ?
 Please make a backup of the app's data from the Settings before installing an update.
 If you got the app from the Play Store, you will need to uninstall it before re-installing it from here the first time.
 
-1) Click the [link](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.10) above and go to Assets > archive_reader.apk to download the update.
+1) Click the [link](https://github.com/TheCarpetMerchant/archive_reader/releases/tag/v1.6.11) above and go to Assets > archive_reader.apk to download the update.
 2) From your file explorer, open the downloaded .apk file.
 3) Android will ask you to give permission to install external applications. Follow your system's instructions to enable this. You may have to disable Play Protect in the Play Store app.
 4) Once that is done, you will be able to install the update by clicking the file once again. Click "Install" in the dialog and wait for your system to finish installing.
@@ -24,6 +24,15 @@ If you got the app from the Play Store, you will need to uninstall it before re-
 [archivereaderapp@gmail.com](mailto:archivereaderapp@gmail.com)
 
 ## Changelog
+
+### 1.6.11
+- Add your own custom fonts
+- Show/Hide works that are already in your To Read list
+- Show chapters read in green
+- Add word count to bookmark search
+- Fix 20 subscriptions max message repeatedly coming up
+- Fix top bar color in reader
+- Fix TTS notification + react to interruptions
 
 ### 1.6.10
 - Fix Mark for Later
