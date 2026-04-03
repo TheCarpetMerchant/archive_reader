@@ -25,6 +25,15 @@ If you got the app from the Play Store, you will need to uninstall it before re-
 
 ## Changelog
 
+### 1.6.13
+- Fix issue where certain devices would have the bottom options bar hidden by the navigation bar while reading
+- Next updates will now be available straight through the app !
+- Remove some old Google tracking stuff
+
+### 1.6.12
+- Add "Replace with" function (to replace y/n)
+- Fix automatic updates issue introduced in 1.6.11
+
 ### 1.6.11
 - Add your own custom fonts
 - Show/Hide works that are already in your To Read list
