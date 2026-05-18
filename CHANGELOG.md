@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.6.17
+- Translations using the Owl-Alpha model on OpenRouter (it's free). You can find instructions in the app in the options list at the bottom-right when reading -> Translate
+- Option to exclude AI-generated works from searches (based on the canonical tags 'AI-Generated Text' and 'Created Using Generative AI')
+- You can set a name on saved searches
+- Improved app update screen to show the changelog
+- Fix login
+- Fix OS navigation bar not having the right background color it was ugly
+
 ### 1.6.16
 - Fix for when Cloudflare is up
 - Added tags to collections & collection searches
