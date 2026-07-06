@@ -1,5 +1,14 @@
 ## Changelog
 
+### 1.6.18
+- Bookmark series
+- Made pop-up messages less cluttery, you now swipe down to get rid of them
+- Added a sample text in reader theme editing page
+- Handle redirect to the "Change password" page upon login correctly
+- Fix searching in text issues
+- Fix popup for search saving not showing up in certain cases
+- Fix performance issues on some weird works
+
 ### 1.6.17
 - Translations using the Owl-Alpha model on OpenRouter (it's free). You can find instructions in the app in the options list at the bottom-right when reading -> Translate
 - Option to exclude AI-generated works from searches (based on the canonical tags 'AI-Generated Text' and 'Created Using Generative AI')
