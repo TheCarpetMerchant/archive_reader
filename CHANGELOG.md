@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.6.19
+- This release migrates Premium accounts away from Google's infrastructure towards a self-hostable and open source alternative. If it fails for your account, simply creating a new one with the same email address will recover your subscription.
+- Export lists of works to Excel
+- Check on disk space to help prevent issues
+- Other bugfixes
+
 ### 1.6.18
 - Bookmark series
 - Made pop-up messages less cluttery, you now swipe down to get rid of them
