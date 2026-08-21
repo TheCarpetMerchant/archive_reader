@@ -1,5 +1,10 @@
 ## Changelog
 
+### 1.6.20
+- Cloud backups for Premium users
+- Allow use of a Magic link to log in
+- Fix multiselect, other bugfixes
+
 ### 1.6.19
 - This release migrates Premium accounts away from Google's infrastructure towards a self-hostable and open source alternative. If it fails for your account, simply creating a new one with the same email address will recover your subscription.
 - Export lists of works to Excel
